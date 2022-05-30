@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mushrrom
 - 👀 I’m a human
 - 🌱 I’m currently learning python
-- 📫 You can contact me at hii#6002 on discord
+- 📫 You can contact me at mushrrom@proton.me
 
 <!---
 Mushrrom/Mushrrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
