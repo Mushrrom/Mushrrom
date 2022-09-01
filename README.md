@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Mushrrom
-- 👀 I’m a human
-- 🌱 I’m currently learning python
-- 📫 You can contact me at mushrrom@proton.me
+# Hii there, I'm Mushrrom
+
+
+Check out my website at [h1i.dev](https://h1i.dev)
+You can contact me at mail@h1i.dev
+
+
 
 <!---
 Mushrrom/Mushrrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
