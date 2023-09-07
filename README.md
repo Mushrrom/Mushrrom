@@ -2,7 +2,8 @@
 
 
 - Check out my website at [h1i.dev](https://h1i.dev)
-- You can contact me at mail@h1i.dev
+- You can contact me at [mail@h1i.dev](mailto:mail@h1i.dev)
+- Or on discord [@blahaj.zip](<https://discord.com/users/683954422241427471>)
 ---
 ### :hammer_and_wrench: Languages :
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
