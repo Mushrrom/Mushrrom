@@ -1,9 +1,13 @@
 # Hii there, I'm Mushrrom
 
+Check out my website at [h1i.dev](https://h1i.dev)
 
-- Check out my website at [h1i.dev](https://h1i.dev)
-- You can contact me at [mail@h1i.dev](mailto:mail@h1i.dev)
-- Or on discord [@blahaj.zip](<https://discord.com/users/683954422241427471>)
+---
+### Contact me
+Discord (checked frequently) : [@blahaj.zip](<https://discord.com/users/683954422241427471>)
+Email (Checked daily) : [hello@blahaj.zip](mailto:hello@blahaj.zip)
+Matrix (Checked infrequently) : [@blahaj.zip:matrix.org](https://matrix.to/#/@blahaj.zip:matrix.org)
+
 ---
 ### :hammer_and_wrench: Languages :
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -11,7 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 
-
+---
 ### PGP key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
