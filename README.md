@@ -4,9 +4,9 @@ Check out my website at [h1i.dev](https://h1i.dev)
 
 ---
 ### Contact me
-Discord (checked frequently) : [@blahaj.zip](<https://discord.com/users/683954422241427471>)
-Email (Checked daily) : [hello@blahaj.zip](mailto:hello@blahaj.zip)
-Matrix (Checked infrequently) : [@blahaj.zip:matrix.org](https://matrix.to/#/@blahaj.zip:matrix.org)
+- Discord (checked frequently) : [@blahaj.zip](<https://discord.com/users/683954422241427471>)
+- Email (Checked daily) : [hello@blahaj.zip](mailto:hello@blahaj.zip)
+- Matrix (Checked infrequently) : [@blahaj.zip:matrix.org](https://matrix.to/#/@blahaj.zip:matrix.org)
 
 ---
 ### :hammer_and_wrench: Languages :
