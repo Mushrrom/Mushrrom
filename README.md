@@ -1,7 +1,10 @@
 # Hii there, I'm Mushrrom
 
 Check out my website at [h1i.dev](https://h1i.dev)
-
+---
+### What I'm working on
+- iDevice toolbox, a toolbox for IOS and IpadOS to access system diagnostics and mac only device features
+- Image host (to be [hoard.zip](https://hoard.zip)) a simple image host, supporting ShareX uploads and discord embeds
 ---
 ### Contact me
 - Discord (checked frequently) : [@blahaj.zip](<https://discord.com/users/683954422241427471>)
